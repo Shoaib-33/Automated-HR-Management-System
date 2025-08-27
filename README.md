@@ -28,5 +28,8 @@ Watch the project demonstration here:
 [![Watch the demo](https://img.youtube.com/vi/noxaUF9vBgU/0.jpg)](https://youtu.be/noxaUF9vBgU)
 
 ---
+## Note
+> The source code for this project is **private** and not publicly available. This repository is for demonstration purposes only.
+
 
 
