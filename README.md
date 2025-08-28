@@ -1,6 +1,6 @@
 # Automated HR Management System (MCP-based)
 
-An **AI-powered HR Management System** that automates HR tasks end-to-end using **MCP (Model-Context-Protocol) architecture** and **private Claude**. The system performs onboarding, attendance tracking, leave management, and performance evaluation automatically through MCP tool calls.
+An **AI-powered MCP based HR Management System** that automates HR tasks end-to-end using **MCP (Model-Context-Protocol) architecture** and **private Claude**. The system performs onboarding, attendance tracking, leave management, and performance evaluation automatically through MCP tool calls.
 
 ---
 
